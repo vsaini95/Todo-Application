@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  --tw-bg-opacity: 1;
+  background-image: url(https://modern-todo-list.vercel.app/img/bg-desktop-light.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  background-color: rgb(255, 253, 253);
+}
