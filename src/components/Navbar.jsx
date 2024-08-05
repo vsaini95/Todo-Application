@@ -1,5 +1,5 @@
 import React from "react";
-
+/*-------------Optional component-------------------*/
 const Navbar = () => {
   return (
     <nav className="flex justify-between bg-indigo-900 text-white py-2">
