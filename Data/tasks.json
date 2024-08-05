@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "todo": "Gym",
+    "isCompleted": false
+  },
+  {
+    "id": 2,
+    "todo": "Yoga",
+    "isCompleted": true
+  },
+  {
+    "id": 3,
+    "todo": "Drink Water",
+    "isCompleted": false
+  },
+  {
+    "id": 4,
+    "todo": "Study",
+    "isCompleted": true
+  },
+  {
+    "id": 5,
+    "todo": "Walk",
+    "isCompleted": false
+  }
+]
